@@ -1,0 +1,1 @@
+# MicroStrategy-Desktop-2020
