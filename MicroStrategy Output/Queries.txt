@@ -1,0 +1,31 @@
+Add extra visuals
+Compound grid
+Network
+Google Timeline
+Box Plot
+KPI
+Box Plot
+Dossier Properties
+Format Object
+Dossier Format
+Version of MicroStrategy
+Joins in Mirostrategy
+Filter Connecting to Visuals
+Image
+Survy Monkey
+Survey Gizmo
+
+Format Dossier
+Format Page
+Format and choose pattern
+
+Link between pages
+Link to Webpage
+
+Use Natural Language to create Visuals
+Conver to Freeform Layout
+Responsive view editor
+Reponsive Preview
+Attribute
+Metric Selector
+HTML
